@@ -12,7 +12,9 @@ Software engineering is the process of designing, developing, testing, and maint
 Identify and describe at least three key milestones in the evolution of software engineering.
 
 The Birth of Software Engineering. The term 'software engineering' was first introduced at the 1968 NATO Software Engineering Conference responding to a period where software projects were poorly managed and complex leading to their failures. This milestone brought to light the need for a structured approach leading to the creation of software development methodologies like Agile practices.
+
 Creation of the Internet. The development of the Internet had a huge impact on shaping how software is designed, developed, and deployed. The development of the Internet boosted several areas of Software Engineering like Web-Based software development, Networking, Cybersecurity, etc. The Internet also enabled instant software updates and collaborations as compared to before it where software was distributed via physical media like floppy disks.
+
 Rise of Object-Oriented Programming(OOP). The introduction of OOP introduced concepts like encapsulation, inheritance, and polymorphism revolutionizing software development by making software more reusable, modular, and easier to maintain.
 
 
