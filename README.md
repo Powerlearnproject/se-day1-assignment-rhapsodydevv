@@ -1,8 +1,8 @@
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-2e0aaae1b6195c2367325f4f02e2d04e9abb55f0b24a779b69b11b9e10269abc.svg)](https://classroom.github.com/online_ide?assignment_repo_id=18301526&assignment_repo_type=AssignmentRepo)
 # SE_Day1
-Software Engineering Day1 Assignment
+<pre>Software Engineering Day1 Assignment</pre>
 
-#Part 1: Introduction to Software Engineering
+<pre>#Part 1: Introduction to Software Engineering</pre>
 
 <pre>Explain what software engineering is and discuss its importance in the technology industry.</pre>
 
@@ -18,7 +18,7 @@ Creation of the Internet. The development of the Internet had a huge impact on s
 Rise of Object-Oriented Programming(OOP). The introduction of OOP introduced concepts like encapsulation, inheritance, and polymorphism revolutionizing software development by making software more reusable, modular, and easier to maintain.
 
 
-<pre>List and briefly explain the phases of the Software Development Life Cycle.</pre>/
+<pre>List and briefly explain the phases of the Software Development Life Cycle.</pre>
 
 Planning. In this phase, the project scope, objectives, feasibility, resources, and risks are identified. This helps in defining the timelines, budgeting, and choosing a development approach that best suits it.
 
