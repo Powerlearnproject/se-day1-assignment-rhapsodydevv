@@ -9,6 +9,7 @@ Explain what software engineering is and discuss its importance in the technolog
 Software engineering is the process of designing, developing, testing, and maintaining software for computer systems or other electronic devices. Software engineering is important in the technology industry for several reasons. Since it helps create optimized systems, productivity is improved and businesses operate more efficiently. Well-engineered software can be easily updated and maintained according to the size of the workload, making it adaptable to user's changing needs. Software engineering drives innovation and technological advancements since people are always looking for ways to improve.
 
 
+
 Identify and describe at least three key milestones in the evolution of software engineering.
 
 The Birth of Software Engineering. The term 'software engineering' was first introduced at the 1968 NATO Software Engineering Conference responding to a period where software projects were poorly managed and complex leading to their failures. This milestone brought to light the need for a structured approach leading to the creation of software development methodologies like Agile practices.
